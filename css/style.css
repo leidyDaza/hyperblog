@@ -3,4 +3,17 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background: rgb(187, 203, 255) ;
     color: rgb(219, 61, 233);
+    margin: 0;
+    padding: 0;
+} 
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid rgb(170, 31, 31);
+    margin:0 auto;
+    color: black;
+}
+#container h1{
+font-size: 20px;
 }
