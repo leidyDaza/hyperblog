@@ -1,15 +1,9 @@
 body
 {
-    color: #333;
+    color: rgb(202, 49, 49);
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Courier New', Courier, monospace;
-    background: rgb(187, 203, 255) ;
-    color: rgb(219, 61, 233);
-=======
     font-family: Arial;
     font-size: 16px;
->>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
@@ -44,6 +38,7 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     padding: 1em;
