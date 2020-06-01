@@ -46,14 +46,11 @@ body
 #post
 {
     padding: 1em;
-<<<<<<< HEAD
     background:white;
-=======
 }
 #footer{
-	background: gray;
+	background:rgb(157, 157, 247);
 	text-align:center;
 	color:white;
 	padding:0.5em;
->>>>>>> footer
 }
